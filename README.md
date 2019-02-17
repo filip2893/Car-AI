@@ -1,5 +1,5 @@
 # Car-AI
-Project on collague Faculty of organisation and informatics in Varaždin on course Multiagent Systems.
+Project on Faculty of Organisation and Informatics in Varaždin on course Multiagent Systems.
 
  # Screenshoots:
  <p float="left">
